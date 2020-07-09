@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Moovies</string>
+
+    <string name="s_release_date">Lançamento: %1$s</string>
+    <string name="s_movie_rating">(%1$d votos) %2$s/️10</string>
+    <string name="s_movie_only_rating">%1$s/️10</string>
+    <string name="s_movie_name_plus_rating">%1$s (%2$s/️10)</string>
+    <string name="s_duration">Duração</string>
+    <string name="s_duration_text">%1$d minutos</string>
+    <string name="s_rating">Nota</string>
+    <string name="s_votes">Avaliações</string>
+    <string name="s_popularity">Popularidade</string>
+    <string name="s_votes_text">%1$d</string>
+    <string name="s_majority_warning">Esse filme é indicado para maiores de 18 anos.</string>
+    <string name="s_original_title">Título original: %1$s</string>
+</resources>
